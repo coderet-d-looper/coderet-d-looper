@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://i.imgur.com/XYZabc.png" alt="Profile Picture" width="200" height="200" />
+  <img src="https://e0.pxfuel.com/wallpapers/685/814/desktop-wallpaper-aesthetic-cute-anime-boy-icon-cuteanimals-cute-anime-boy-anime-aesthetic-anime-aesthetic-anime-boy-icon-thumbnail.jpg" alt="Profile Picture" width="200" height="200" />
 </p>
 
-<h1 align="center">John Doe</h1>
+<h1 align="center">Coderet D Looper</h1>
 
 <p align="center">
   <b>👨‍💻 Programmer | 💻 Coder | 👁️ Ethical Hacker</b>
@@ -35,9 +35,7 @@ I actively contribute to open-source projects and collaborate with like-minded i
 
 **Connect with Me:**
 
-- GitHub: [github.com/johndoe](https://github.com/johndoe)
-- LinkedIn: [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)
-- Website: [johndoe.com](https://johndoe.com)
+- GitHub: [github.com/CoderetDLooper](https://github.com/coderet-d-looper)
 
 Let's connect and collaborate to build a secure and innovative digital future!
 
